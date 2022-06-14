@@ -1,7 +1,91 @@
 [
   {
+    "full_name": "simonbaird/tiddlyhost",
+    "stargazers_count": 85,
+    "open_issues_count": 102,
+    "forks_count": 9
+  },
+  {
+    "full_name": "buggyj/savetiddlers",
+    "stargazers_count": 97,
+    "open_issues_count": 18,
+    "forks_count": 12
+  },
+  {
+    "full_name": "tiddlydrive/tiddlydrive.github.io",
+    "stargazers_count": 62,
+    "open_issues_count": 12,
+    "forks_count": 13
+  },
+  {
+    "full_name": "amandavisconti/digitalhumanities",
+    "stargazers_count": 15,
+    "open_issues_count": 1,
+    "forks_count": 8
+  },
+  {
+    "full_name": "CLARIAH/awesome-humanities-ontologies",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "castiron/didh",
+    "stargazers_count": 36,
+    "open_issues_count": 5,
+    "forks_count": 12
+  },
+  {
+    "full_name": "DH-Box/dhbox",
+    "stargazers_count": 120,
+    "open_issues_count": 13,
+    "forks_count": 14
+  },
+  {
+    "full_name": "DanTHulse/RomanDateTime",
+    "stargazers_count": 1,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "FedericoPonzi/TrasportiRomaBot",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "veritechy/Things-to-do-in-Italy",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hackerkid/Mind-Expanding-Books",
+    "stargazers_count": 8821,
+    "open_issues_count": 57,
+    "forks_count": 963
+  },
+  {
+    "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
+    "stargazers_count": 46970,
+    "open_issues_count": 615,
+    "forks_count": 6153
+  },
+  {
+    "full_name": "EbookFoundation/free-programming-books",
+    "stargazers_count": 235132,
+    "open_issues_count": 43,
+    "forks_count": 49097
+  },
+  {
+    "full_name": "dantaki/Marcus-Aurelius-Bot",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "jasonwinning/hypernomicon",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 0,
     "forks_count": 10
   }
