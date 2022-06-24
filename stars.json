@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "cltk/latin_proper_names_cltk",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "lamharrison/NER-and-Linking-of-Ancient-and-Historic-Places",
+    "stargazers_count": 26,
+    "open_issues_count": 0,
+    "forks_count": 18
+  },
+  {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 5868,
-    "open_issues_count": 204,
-    "forks_count": 10882
+    "stargazers_count": 5870,
+    "open_issues_count": 203,
+    "forks_count": 10889
   },
   {
     "full_name": "ollelauribostrom/rebus",
@@ -85,21 +97,21 @@
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 8838,
+    "stargazers_count": 8858,
     "open_issues_count": 57,
-    "forks_count": 965
+    "forks_count": 967
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 47018,
+    "stargazers_count": 47031,
     "open_issues_count": 614,
-    "forks_count": 6163
+    "forks_count": 6166
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 236076,
-    "open_issues_count": 40,
-    "forks_count": 49193
+    "stargazers_count": 236233,
+    "open_issues_count": 43,
+    "forks_count": 49215
   },
   {
     "full_name": "dantaki/Marcus-Aurelius-Bot",
