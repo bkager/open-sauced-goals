@@ -1,13 +1,13 @@
 [
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 57159,
-    "open_issues_count": 282,
-    "forks_count": 7601
+    "stargazers_count": 57311,
+    "open_issues_count": 281,
+    "forks_count": 7610
   },
   {
     "full_name": "clauswilke/dataviz",
-    "stargazers_count": 2550,
+    "stargazers_count": 2551,
     "open_issues_count": 25,
     "forks_count": 602
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6009,
+    "stargazers_count": 6016,
     "open_issues_count": 204,
-    "forks_count": 11069
+    "forks_count": 11075
   },
   {
     "full_name": "ollelauribostrom/rebus",
     "stargazers_count": 397,
-    "open_issues_count": 487,
-    "forks_count": 671
+    "open_issues_count": 489,
+    "forks_count": 673
   },
   {
     "full_name": "Living-with-machines/genre-classification",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9083,
+    "stargazers_count": 9095,
     "open_issues_count": 57,
     "forks_count": 974
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 47611,
-    "open_issues_count": 612,
-    "forks_count": 6231
+    "stargazers_count": 47643,
+    "open_issues_count": 614,
+    "forks_count": 6235
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 246793,
+    "stargazers_count": 246992,
     "open_issues_count": 39,
-    "forks_count": 50458
+    "forks_count": 50483
   },
   {
     "full_name": "dantaki/Marcus-Aurelius-Bot",
@@ -134,7 +134,7 @@
   {
     "full_name": "jasonwinning/hypernomicon",
     "stargazers_count": 83,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 11
   }
 ]
