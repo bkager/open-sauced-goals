@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "nvm-sh/nvm",
+    "stargazers_count": 64144,
+    "open_issues_count": 372,
+    "forks_count": 6809
+  },
+  {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 61648,
-    "open_issues_count": 376,
-    "forks_count": 8136
+    "stargazers_count": 61757,
+    "open_issues_count": 375,
+    "forks_count": 8145
   },
   {
     "full_name": "clauswilke/dataviz",
-    "stargazers_count": 2774,
+    "stargazers_count": 2778,
     "open_issues_count": 25,
     "forks_count": 642
   },
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6264,
+    "stargazers_count": 6270,
     "open_issues_count": 210,
-    "forks_count": 11316
+    "forks_count": 11311
   },
   {
     "full_name": "ollelauribostrom/rebus",
-    "stargazers_count": 445,
-    "open_issues_count": 539,
-    "forks_count": 734
+    "stargazers_count": 449,
+    "open_issues_count": 540,
+    "forks_count": 736
   },
   {
     "full_name": "Living-with-machines/genre-classification",
@@ -50,7 +56,7 @@
   {
     "full_name": "simonbaird/tiddlyhost",
     "stargazers_count": 129,
-    "open_issues_count": 115,
+    "open_issues_count": 116,
     "forks_count": 11
   },
   {
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "tiddlydrive/tiddlydrive.github.io",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 12,
     "forks_count": 14
   },
@@ -109,21 +115,21 @@
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9702,
+    "stargazers_count": 9709,
     "open_issues_count": 82,
-    "forks_count": 1024
+    "forks_count": 1025
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 50343,
-    "open_issues_count": 825,
-    "forks_count": 6667
+    "stargazers_count": 50393,
+    "open_issues_count": 824,
+    "forks_count": 6676
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 262279,
-    "open_issues_count": 51,
-    "forks_count": 53290
+    "stargazers_count": 262611,
+    "open_issues_count": 50,
+    "forks_count": 53336
   },
   {
     "full_name": "dantaki/Marcus-Aurelius-Bot",
