@@ -1,15 +1,15 @@
 [
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 64144,
-    "open_issues_count": 372,
-    "forks_count": 6809
+    "stargazers_count": 64208,
+    "open_issues_count": 370,
+    "forks_count": 6818
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 61757,
-    "open_issues_count": 375,
-    "forks_count": 8145
+    "stargazers_count": 61879,
+    "open_issues_count": 374,
+    "forks_count": 8157
   },
   {
     "full_name": "clauswilke/dataviz",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6270,
-    "open_issues_count": 210,
-    "forks_count": 11311
+    "stargazers_count": 6275,
+    "open_issues_count": 209,
+    "forks_count": 11309
   },
   {
     "full_name": "ollelauribostrom/rebus",
-    "stargazers_count": 449,
+    "stargazers_count": 450,
     "open_issues_count": 540,
-    "forks_count": 736
+    "forks_count": 738
   },
   {
     "full_name": "Living-with-machines/genre-classification",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "qurator-spk/eynollah",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 19,
     "forks_count": 23
   },
   {
     "full_name": "simonbaird/tiddlyhost",
-    "stargazers_count": 129,
+    "stargazers_count": 131,
     "open_issues_count": 116,
     "forks_count": 11
   },
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9709,
+    "stargazers_count": 9714,
     "open_issues_count": 82,
     "forks_count": 1025
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 50393,
+    "stargazers_count": 50461,
     "open_issues_count": 824,
-    "forks_count": 6676
+    "forks_count": 6687
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 262611,
-    "open_issues_count": 50,
-    "forks_count": 53336
+    "stargazers_count": 262913,
+    "open_issues_count": 46,
+    "forks_count": 53382
   },
   {
     "full_name": "dantaki/Marcus-Aurelius-Bot",
@@ -141,6 +141,6 @@
     "full_name": "jasonwinning/hypernomicon",
     "stargazers_count": 92,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   }
 ]
