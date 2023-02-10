@@ -1,39 +1,69 @@
 [
   {
+    "full_name": "oslabs-beta/VaaS",
+    "stargazers_count": 140,
+    "open_issues_count": 19,
+    "forks_count": 14
+  },
+  {
+    "full_name": "open-source-labs/Svelvet",
+    "stargazers_count": 1601,
+    "open_issues_count": 21,
+    "forks_count": 83
+  },
+  {
+    "full_name": "oslabs-beta/Dockery",
+    "stargazers_count": 43,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "oslabs-beta/SkaleSafe",
+    "stargazers_count": 53,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "oslabs-beta/k8r",
+    "stargazers_count": 54,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "samerbuna/efficient-node",
-    "stargazers_count": 352,
+    "stargazers_count": 356,
     "open_issues_count": 1,
     "forks_count": 88
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 227195,
-    "open_issues_count": 131,
-    "forks_count": 25856
+    "stargazers_count": 227575,
+    "open_issues_count": 132,
+    "forks_count": 25915
   },
   {
     "full_name": "jiwonbest/amazing-react-projects",
-    "stargazers_count": 1121,
+    "stargazers_count": 1122,
     "open_issues_count": 8,
     "forks_count": 183
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 64448,
-    "open_issues_count": 369,
-    "forks_count": 6850
+    "stargazers_count": 64536,
+    "open_issues_count": 368,
+    "forks_count": 6865
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 62250,
+    "stargazers_count": 62318,
     "open_issues_count": 373,
-    "forks_count": 8202
+    "forks_count": 8211
   },
   {
     "full_name": "clauswilke/dataviz",
-    "stargazers_count": 2790,
+    "stargazers_count": 2795,
     "open_issues_count": 25,
-    "forks_count": 644
+    "forks_count": 645
   },
   {
     "full_name": "cltk/latin_proper_names_cltk",
@@ -49,15 +79,15 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6291,
-    "open_issues_count": 210,
-    "forks_count": 11323
+    "stargazers_count": 6294,
+    "open_issues_count": 209,
+    "forks_count": 11324
   },
   {
     "full_name": "ollelauribostrom/rebus",
-    "stargazers_count": 450,
+    "stargazers_count": 455,
     "open_issues_count": 542,
-    "forks_count": 742
+    "forks_count": 743
   },
   {
     "full_name": "Living-with-machines/genre-classification",
@@ -67,20 +97,20 @@
   },
   {
     "full_name": "qurator-spk/eynollah",
-    "stargazers_count": 201,
-    "open_issues_count": 19,
-    "forks_count": 23
+    "stargazers_count": 203,
+    "open_issues_count": 21,
+    "forks_count": 24
   },
   {
     "full_name": "simonbaird/tiddlyhost",
     "stargazers_count": 132,
-    "open_issues_count": 100,
+    "open_issues_count": 101,
     "forks_count": 12
   },
   {
     "full_name": "buggyj/savetiddlers",
     "stargazers_count": 100,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 12
   },
   {
@@ -97,7 +127,7 @@
   },
   {
     "full_name": "CLARIAH/awesome-humanities-ontologies",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 1,
     "forks_count": 12
   },
@@ -133,32 +163,20 @@
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9737,
+    "stargazers_count": 9739,
     "open_issues_count": 84,
-    "forks_count": 1027
+    "forks_count": 1028
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 50637,
-    "open_issues_count": 821,
-    "forks_count": 6713
+    "stargazers_count": 50670,
+    "open_issues_count": 820,
+    "forks_count": 6719
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 265605,
-    "open_issues_count": 40,
-    "forks_count": 53669
-  },
-  {
-    "full_name": "dantaki/Marcus-Aurelius-Bot",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "jasonwinning/hypernomicon",
-    "stargazers_count": 93,
-    "open_issues_count": 0,
-    "forks_count": 12
+    "stargazers_count": 266108,
+    "open_issues_count": 39,
+    "forks_count": 53733
   }
 ]
