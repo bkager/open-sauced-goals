@@ -1,15 +1,27 @@
 [
   {
-    "full_name": "zacharydfreeman/assessment-review",
+    "full_name": "Asabeneh/30-Days-Of-JavaScript",
+    "stargazers_count": 33731,
+    "open_issues_count": 226,
+    "forks_count": 7912
+  },
+  {
+    "full_name": "MichaelAngelo13/project-boilerplate",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 1
+  },
+  {
+    "full_name": "zacharydfreeman/assessment-review",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 13
   },
   {
     "full_name": "careercup/CtCI-6th-Edition",
-    "stargazers_count": 10524,
+    "stargazers_count": 10534,
     "open_issues_count": 140,
-    "forks_count": 4239
+    "forks_count": 4243
   },
   {
     "full_name": "briangregoryholmes/unit-9-refactor",
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 27667,
-    "open_issues_count": 9,
-    "forks_count": 6812
+    "stargazers_count": 27750,
+    "open_issues_count": 5,
+    "forks_count": 6827
   },
   {
     "full_name": "mshick97/app-boilerplate-typescript",
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "oslabs-beta/geSvelte",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -49,25 +61,25 @@
   },
   {
     "full_name": "oslabs-beta/VaaS",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 19,
     "forks_count": 14
   },
   {
     "full_name": "open-source-labs/Svelvet",
-    "stargazers_count": 1637,
-    "open_issues_count": 25,
-    "forks_count": 86
+    "stargazers_count": 1652,
+    "open_issues_count": 26,
+    "forks_count": 89
   },
   {
     "full_name": "oslabs-beta/Dockery",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "oslabs-beta/SkaleSafe",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -79,39 +91,39 @@
   },
   {
     "full_name": "samerbuna/efficient-node",
-    "stargazers_count": 371,
+    "stargazers_count": 375,
     "open_issues_count": 1,
     "forks_count": 90
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 229069,
-    "open_issues_count": 145,
-    "forks_count": 26087
+    "stargazers_count": 229431,
+    "open_issues_count": 147,
+    "forks_count": 26139
   },
   {
     "full_name": "jiwonbest/amazing-react-projects",
-    "stargazers_count": 1134,
+    "stargazers_count": 1135,
     "open_issues_count": 8,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 64950,
-    "open_issues_count": 371,
-    "forks_count": 6930
+    "stargazers_count": 65061,
+    "open_issues_count": 374,
+    "forks_count": 6944
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 62662,
+    "stargazers_count": 62746,
     "open_issues_count": 368,
-    "forks_count": 8234
+    "forks_count": 8241
   },
   {
     "full_name": "clauswilke/dataviz",
-    "stargazers_count": 2805,
+    "stargazers_count": 2804,
     "open_issues_count": 25,
-    "forks_count": 642
+    "forks_count": 643
   },
   {
     "full_name": "cltk/latin_proper_names_cltk",
@@ -127,15 +139,15 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6307,
+    "stargazers_count": 6314,
     "open_issues_count": 209,
-    "forks_count": 11339
+    "forks_count": 11351
   },
   {
     "full_name": "ollelauribostrom/rebus",
-    "stargazers_count": 456,
-    "open_issues_count": 542,
-    "forks_count": 743
+    "stargazers_count": 454,
+    "open_issues_count": 541,
+    "forks_count": 742
   },
   {
     "full_name": "Living-with-machines/genre-classification",
@@ -151,8 +163,8 @@
   },
   {
     "full_name": "simonbaird/tiddlyhost",
-    "stargazers_count": 132,
-    "open_issues_count": 103,
+    "stargazers_count": 133,
+    "open_issues_count": 105,
     "forks_count": 12
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 67,
     "open_issues_count": 11,
     "forks_count": 14
-  },
-  {
-    "full_name": "amandavisconti/digitalhumanities",
-    "stargazers_count": 18,
-    "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
-    "full_name": "CLARIAH/awesome-humanities-ontologies",
-    "stargazers_count": 59,
-    "open_issues_count": 1,
-    "forks_count": 12
   }
 ]
