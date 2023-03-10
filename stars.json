@@ -1,27 +1,51 @@
 [
   {
+    "full_name": "open-source-labs/Svelvet",
+    "stargazers_count": 1664,
+    "open_issues_count": 28,
+    "forks_count": 96
+  },
+  {
+    "full_name": "mermaid-js/mermaid",
+    "stargazers_count": 55200,
+    "open_issues_count": 869,
+    "forks_count": 4316
+  },
+  {
+    "full_name": "oslabs-beta/Svelvet",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "oslabs-beta/spyglass",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 14012,
-    "open_issues_count": 65,
-    "forks_count": 928
+    "stargazers_count": 14076,
+    "open_issues_count": 70,
+    "forks_count": 933
   },
   {
     "full_name": "wbkd/react-flow-mindmap-app",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6722,
-    "open_issues_count": 93,
+    "stargazers_count": 6745,
+    "open_issues_count": 94,
     "forks_count": 217
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 33931,
-    "open_issues_count": 230,
-    "forks_count": 7954
+    "stargazers_count": 34043,
+    "open_issues_count": 232,
+    "forks_count": 7977
   },
   {
     "full_name": "MichaelAngelo13/project-boilerplate",
@@ -37,9 +61,9 @@
   },
   {
     "full_name": "careercup/CtCI-6th-Edition",
-    "stargazers_count": 10546,
+    "stargazers_count": 10551,
     "open_issues_count": 140,
-    "forks_count": 4250
+    "forks_count": 4252
   },
   {
     "full_name": "briangregoryholmes/unit-9-refactor",
@@ -49,9 +73,9 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 27911,
-    "open_issues_count": 7,
-    "forks_count": 6869
+    "stargazers_count": 27964,
+    "open_issues_count": 5,
+    "forks_count": 6886
   },
   {
     "full_name": "mshick97/app-boilerplate-typescript",
@@ -84,12 +108,6 @@
     "forks_count": 16
   },
   {
-    "full_name": "open-source-labs/Svelvet",
-    "stargazers_count": 1660,
-    "open_issues_count": 27,
-    "forks_count": 94
-  },
-  {
     "full_name": "oslabs-beta/Manifest",
     "stargazers_count": 54,
     "open_issues_count": 0,
@@ -109,39 +127,39 @@
   },
   {
     "full_name": "samerbuna/efficient-node",
-    "stargazers_count": 382,
+    "stargazers_count": 392,
     "open_issues_count": 1,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 230056,
-    "open_issues_count": 152,
-    "forks_count": 26207
+    "stargazers_count": 230311,
+    "open_issues_count": 154,
+    "forks_count": 26240
   },
   {
     "full_name": "jiwonbest/amazing-react-projects",
-    "stargazers_count": 1136,
+    "stargazers_count": 1140,
     "open_issues_count": 8,
-    "forks_count": 185
+    "forks_count": 186
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 65258,
-    "open_issues_count": 374,
-    "forks_count": 6954
+    "stargazers_count": 65360,
+    "open_issues_count": 379,
+    "forks_count": 6974
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 62864,
+    "stargazers_count": 62933,
     "open_issues_count": 367,
-    "forks_count": 8250
+    "forks_count": 8254
   },
   {
     "full_name": "clauswilke/dataviz",
-    "stargazers_count": 2809,
+    "stargazers_count": 2811,
     "open_issues_count": 25,
-    "forks_count": 646
+    "forks_count": 647
   },
   {
     "full_name": "cltk/latin_proper_names_cltk",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6329,
+    "stargazers_count": 6335,
     "open_issues_count": 210,
-    "forks_count": 11363
-  },
-  {
-    "full_name": "ollelauribostrom/rebus",
-    "stargazers_count": 459,
-    "open_issues_count": 544,
-    "forks_count": 746
-  },
-  {
-    "full_name": "Living-with-machines/genre-classification",
-    "stargazers_count": 10,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "qurator-spk/eynollah",
-    "stargazers_count": 209,
-    "open_issues_count": 24,
-    "forks_count": 24
+    "forks_count": 11365
   }
 ]
