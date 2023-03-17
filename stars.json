@@ -1,15 +1,15 @@
 [
   {
     "full_name": "open-source-labs/Svelvet",
-    "stargazers_count": 1676,
+    "stargazers_count": 1678,
     "open_issues_count": 28,
     "forks_count": 97
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 55361,
-    "open_issues_count": 870,
-    "forks_count": 4331
+    "stargazers_count": 55477,
+    "open_issues_count": 856,
+    "forks_count": 4347
   },
   {
     "full_name": "oslabs-beta/Svelvet",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 14136,
-    "open_issues_count": 61,
-    "forks_count": 934
+    "stargazers_count": 14227,
+    "open_issues_count": 62,
+    "forks_count": 937
   },
   {
     "full_name": "wbkd/react-flow-mindmap-app",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6776,
+    "stargazers_count": 6790,
     "open_issues_count": 94,
     "forks_count": 217
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 34151,
-    "open_issues_count": 223,
-    "forks_count": 8010
+    "stargazers_count": 34250,
+    "open_issues_count": 220,
+    "forks_count": 8049
   },
   {
     "full_name": "MichaelAngelo13/project-boilerplate",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "careercup/CtCI-6th-Edition",
-    "stargazers_count": 10557,
+    "stargazers_count": 10567,
     "open_issues_count": 140,
-    "forks_count": 4254
+    "forks_count": 4255
   },
   {
     "full_name": "briangregoryholmes/unit-9-refactor",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 28032,
+    "stargazers_count": 28091,
     "open_issues_count": 5,
-    "forks_count": 6899
+    "forks_count": 6926
   },
   {
     "full_name": "mshick97/app-boilerplate-typescript",
@@ -93,7 +93,7 @@
     "full_name": "open-source-labs/spearmint",
     "stargazers_count": 1180,
     "open_issues_count": 4,
-    "forks_count": 140
+    "forks_count": 147
   },
   {
     "full_name": "zackbatist/open-archaeo",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "oslabs-beta/VaaS",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 19,
     "forks_count": 15
   },
@@ -117,7 +117,7 @@
     "full_name": "oslabs-beta/SkaleSafe",
     "stargazers_count": 65,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "oslabs-beta/k8r",
@@ -127,37 +127,37 @@
   },
   {
     "full_name": "samerbuna/efficient-node",
-    "stargazers_count": 398,
+    "stargazers_count": 405,
     "open_issues_count": 1,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 230899,
-    "open_issues_count": 158,
-    "forks_count": 26286
+    "stargazers_count": 231204,
+    "open_issues_count": 162,
+    "forks_count": 26327
   },
   {
     "full_name": "jiwonbest/amazing-react-projects",
-    "stargazers_count": 1141,
+    "stargazers_count": 1143,
     "open_issues_count": 8,
     "forks_count": 186
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 65458,
-    "open_issues_count": 381,
-    "forks_count": 6999
+    "stargazers_count": 65559,
+    "open_issues_count": 380,
+    "forks_count": 7017
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 62996,
+    "stargazers_count": 63066,
     "open_issues_count": 367,
-    "forks_count": 8263
+    "forks_count": 8268
   },
   {
     "full_name": "clauswilke/dataviz",
-    "stargazers_count": 2813,
+    "stargazers_count": 2814,
     "open_issues_count": 25,
     "forks_count": 646
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6338,
+    "stargazers_count": 6339,
     "open_issues_count": 210,
-    "forks_count": 11372
+    "forks_count": 11369
   }
 ]
