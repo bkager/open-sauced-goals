@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "open-guides/og-aws",
+    "stargazers_count": 33502,
+    "open_issues_count": 149,
+    "forks_count": 3644
+  },
+  {
     "full_name": "oslabs-beta/Svelvet-website",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,33 +13,33 @@
   },
   {
     "full_name": "open-source-labs/Svelvet",
-    "stargazers_count": 1681,
+    "stargazers_count": 1685,
     "open_issues_count": 29,
     "forks_count": 98
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 55611,
-    "open_issues_count": 850,
-    "forks_count": 4359
+    "stargazers_count": 55719,
+    "open_issues_count": 849,
+    "forks_count": 4378
   },
   {
     "full_name": "oslabs-beta/Svelvet",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "oslabs-beta/spyglass",
-    "stargazers_count": 10,
+    "stargazers_count": 20,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 14341,
-    "open_issues_count": 66,
-    "forks_count": 942
+    "stargazers_count": 14427,
+    "open_issues_count": 69,
+    "forks_count": 947
   },
   {
     "full_name": "wbkd/react-flow-mindmap-app",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6810,
+    "stargazers_count": 6828,
     "open_issues_count": 93,
-    "forks_count": 217
+    "forks_count": 218
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 34350,
-    "open_issues_count": 222,
-    "forks_count": 8083
+    "stargazers_count": 34440,
+    "open_issues_count": 224,
+    "forks_count": 8110
   },
   {
     "full_name": "MichaelAngelo13/project-boilerplate",
@@ -63,11 +69,11 @@
     "full_name": "zacharydfreeman/assessment-review",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "careercup/CtCI-6th-Edition",
-    "stargazers_count": 10576,
+    "stargazers_count": 10583,
     "open_issues_count": 140,
     "forks_count": 4256
   },
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 28174,
-    "open_issues_count": 8,
-    "forks_count": 6952
+    "stargazers_count": 28240,
+    "open_issues_count": 7,
+    "forks_count": 6981
   },
   {
     "full_name": "mshick97/app-boilerplate-typescript",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 0
   },
   {
     "full_name": "oslabs-beta/geSvelte",
@@ -99,7 +105,7 @@
     "full_name": "open-source-labs/spearmint",
     "stargazers_count": 1180,
     "open_issues_count": 4,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "zackbatist/open-archaeo",
@@ -111,7 +117,7 @@
     "full_name": "oslabs-beta/VaaS",
     "stargazers_count": 152,
     "open_issues_count": 19,
-    "forks_count": 15
+    "forks_count": 14
   },
   {
     "full_name": "oslabs-beta/Manifest",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "samerbuna/efficient-node",
-    "stargazers_count": 405,
+    "stargazers_count": 406,
     "open_issues_count": 1,
     "forks_count": 96
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 231607,
-    "open_issues_count": 163,
-    "forks_count": 26356
+    "stargazers_count": 231887,
+    "open_issues_count": 165,
+    "forks_count": 26396
   },
   {
     "full_name": "jiwonbest/amazing-react-projects",
-    "stargazers_count": 1146,
+    "stargazers_count": 1147,
     "open_issues_count": 8,
     "forks_count": 186
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 65671,
-    "open_issues_count": 379,
-    "forks_count": 7034
+    "stargazers_count": 65745,
+    "open_issues_count": 374,
+    "forks_count": 7044
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 63200,
+    "stargazers_count": 63286,
     "open_issues_count": 367,
-    "forks_count": 8285
+    "forks_count": 8283
   },
   {
     "full_name": "clauswilke/dataviz",
-    "stargazers_count": 2815,
+    "stargazers_count": 2818,
     "open_issues_count": 25,
-    "forks_count": 646
+    "forks_count": 645
   },
   {
     "full_name": "cltk/latin_proper_names_cltk",
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 7
-  },
-  {
-    "full_name": "lamharrison/NER-and-Linking-of-Ancient-and-Historic-Places",
-    "stargazers_count": 27,
-    "open_issues_count": 4,
-    "forks_count": 18
   }
 ]
