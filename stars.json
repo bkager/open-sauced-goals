@@ -1,15 +1,15 @@
 [
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 36354,
+    "stargazers_count": 36378,
     "open_issues_count": 24,
-    "forks_count": 3077
+    "forks_count": 3078
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 24201,
+    "stargazers_count": 24286,
     "open_issues_count": 102,
-    "forks_count": 911
+    "forks_count": 916
   },
   {
     "full_name": "jackmoorman/proboard-app",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "oslabs-beta/spyglass",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 33924,
+    "stargazers_count": 33931,
     "open_issues_count": 150,
-    "forks_count": 3682
+    "forks_count": 3685
   },
   {
     "full_name": "open-source-labs/Svelvet-website",
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "open-source-labs/Svelvet",
-    "stargazers_count": 1825,
-    "open_issues_count": 28,
-    "forks_count": 109
+    "stargazers_count": 1832,
+    "open_issues_count": 30,
+    "forks_count": 110
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 57519,
-    "open_issues_count": 851,
-    "forks_count": 4590
+    "stargazers_count": 57623,
+    "open_issues_count": 852,
+    "forks_count": 4609
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 15570,
+    "stargazers_count": 15637,
     "open_issues_count": 73,
-    "forks_count": 1024
+    "forks_count": 1030
   },
   {
     "full_name": "wbkd/react-flow-mindmap-app",
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 7320,
+    "stargazers_count": 7350,
     "open_issues_count": 85,
     "forks_count": 235
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 35730,
-    "open_issues_count": 245,
-    "forks_count": 8507
+    "stargazers_count": 35816,
+    "open_issues_count": 244,
+    "forks_count": 8529
   },
   {
     "full_name": "MichaelAngelo13/project-boilerplate",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -117,19 +117,19 @@
     "full_name": "zacharydfreeman/data-structures-review",
     "stargazers_count": 16,
     "open_issues_count": 0,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "careercup/CtCI-6th-Edition",
-    "stargazers_count": 10677,
+    "stargazers_count": 10678,
     "open_issues_count": 140,
-    "forks_count": 4272
+    "forks_count": 4276
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 29165,
+    "stargazers_count": 29283,
     "open_issues_count": 8,
-    "forks_count": 7220
+    "forks_count": 7242
   },
   {
     "full_name": "mshick97/app-boilerplate-typescript",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "open-source-labs/spearmint",
-    "stargazers_count": 1210,
+    "stargazers_count": 1228,
     "open_issues_count": 4,
     "forks_count": 147
   },
