@@ -1,98 +1,98 @@
 [
   {
     "full_name": "mwaskom/seaborn",
-    "stargazers_count": 11996,
+    "stargazers_count": 12001,
     "open_issues_count": 155,
-    "forks_count": 1865
+    "forks_count": 1866
   },
   {
     "full_name": "matplotlib/matplotlib",
-    "stargazers_count": 19368,
-    "open_issues_count": 1539,
-    "forks_count": 7419
+    "stargazers_count": 19377,
+    "open_issues_count": 1550,
+    "forks_count": 7426
   },
   {
     "full_name": "lgarron/folderify",
-    "stargazers_count": 1380,
+    "stargazers_count": 1381,
     "open_issues_count": 12,
     "forks_count": 36
   },
   {
     "full_name": "jupyter/jupyter",
-    "stargazers_count": 14739,
+    "stargazers_count": 14745,
     "open_issues_count": 47,
-    "forks_count": 3945
+    "forks_count": 3948
   },
   {
     "full_name": "dylanaraps/pure-bash-bible",
-    "stargazers_count": 35983,
+    "stargazers_count": 35992,
     "open_issues_count": 62,
-    "forks_count": 3234
+    "forks_count": 3235
   },
   {
     "full_name": "spaceship-prompt/spaceship-prompt",
-    "stargazers_count": 19126,
-    "open_issues_count": 125,
-    "forks_count": 962
+    "stargazers_count": 19134,
+    "open_issues_count": 126,
+    "forks_count": 961
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 51632,
-    "open_issues_count": 16,
-    "forks_count": 3565
+    "stargazers_count": 51698,
+    "open_issues_count": 18,
+    "forks_count": 3568
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 41844,
-    "open_issues_count": 12,
-    "forks_count": 1058
+    "stargazers_count": 41874,
+    "open_issues_count": 15,
+    "forks_count": 1062
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 169279,
+    "stargazers_count": 169372,
     "open_issues_count": 482,
-    "forks_count": 25625
+    "forks_count": 25619
   },
   {
     "full_name": "bpkg/bpkg",
-    "stargazers_count": 1870,
+    "stargazers_count": 1872,
     "open_issues_count": 34,
     "forks_count": 96
   },
   {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 19025,
-    "open_issues_count": 2029,
-    "forks_count": 296
+    "stargazers_count": 19099,
+    "open_issues_count": 2037,
+    "forks_count": 298
   },
   {
     "full_name": "MidnightCommander/mc",
-    "stargazers_count": 2387,
+    "stargazers_count": 2388,
     "open_issues_count": 29,
     "forks_count": 508
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 41115,
-    "open_issues_count": 670,
-    "forks_count": 1768
+    "stargazers_count": 41176,
+    "open_issues_count": 673,
+    "forks_count": 1773
   },
   {
     "full_name": "charmbracelet/glow",
-    "stargazers_count": 14876,
+    "stargazers_count": 14892,
     "open_issues_count": 148,
     "forks_count": 321
   },
   {
     "full_name": "openseadragon/openseadragon",
-    "stargazers_count": 2928,
-    "open_issues_count": 470,
+    "stargazers_count": 2930,
+    "open_issues_count": 472,
     "forks_count": 588
   },
   {
     "full_name": "inaturalist/inaturalist",
-    "stargazers_count": 625,
-    "open_issues_count": 539,
+    "stargazers_count": 626,
+    "open_issues_count": 541,
     "forks_count": 178
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 27457,
+    "stargazers_count": 27472,
     "open_issues_count": 17,
     "forks_count": 2818
   },
@@ -127,37 +127,37 @@
   },
   {
     "full_name": "google/fonts",
-    "stargazers_count": 17656,
-    "open_issues_count": 1228,
-    "forks_count": 2584
+    "stargazers_count": 17667,
+    "open_issues_count": 1279,
+    "forks_count": 2583
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 82978,
-    "open_issues_count": 1862,
-    "forks_count": 9033
+    "stargazers_count": 82996,
+    "open_issues_count": 1854,
+    "forks_count": 9041
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 60597,
-    "open_issues_count": 695,
-    "forks_count": 7570
+    "stargazers_count": 60747,
+    "open_issues_count": 698,
+    "forks_count": 7580
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 53154,
-    "open_issues_count": 319,
-    "forks_count": 7950
+    "stargazers_count": 53216,
+    "open_issues_count": 322,
+    "forks_count": 7972
   },
   {
     "full_name": "electron/electron",
-    "stargazers_count": 112139,
-    "open_issues_count": 919,
-    "forks_count": 14977
+    "stargazers_count": 112169,
+    "open_issues_count": 917,
+    "forks_count": 14982
   },
   {
     "full_name": "konstantinmuenster/notion-clone",
-    "stargazers_count": 2873,
+    "stargazers_count": 2872,
     "open_issues_count": 9,
     "forks_count": 324
   },
@@ -165,18 +165,18 @@
     "full_name": "ShoroukAziz/notion_widgets",
     "stargazers_count": 479,
     "open_issues_count": 103,
-    "forks_count": 2353
+    "forks_count": 2360
   },
   {
     "full_name": "transitive-bullshit/nextjs-notion-starter-kit",
-    "stargazers_count": 5830,
+    "stargazers_count": 5842,
     "open_issues_count": 138,
-    "forks_count": 5063
+    "forks_count": 5071
   },
   {
     "full_name": "makenotion/notion-sdk-js",
-    "stargazers_count": 4609,
-    "open_issues_count": 37,
+    "stargazers_count": 4616,
+    "open_issues_count": 38,
     "forks_count": 543
   }
 ]
