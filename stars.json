@@ -1,9 +1,9 @@
 [
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 8687,
+    "stargazers_count": 8693,
     "open_issues_count": 66,
-    "forks_count": 1799
+    "forks_count": 1800
   },
   {
     "full_name": "tedtay/Altair-Visulisation-Project",
@@ -13,81 +13,81 @@
   },
   {
     "full_name": "klembot/twinejs",
-    "stargazers_count": 1913,
-    "open_issues_count": 228,
-    "forks_count": 291
+    "stargazers_count": 1915,
+    "open_issues_count": 229,
+    "forks_count": 290
   },
   {
     "full_name": "expressjs/body-parser",
-    "stargazers_count": 5420,
+    "stargazers_count": 5423,
     "open_issues_count": 22,
     "forks_count": 701
   },
   {
     "full_name": "expressjs/morgan",
-    "stargazers_count": 7900,
+    "stargazers_count": 7902,
     "open_issues_count": 27,
     "forks_count": 533
   },
   {
     "full_name": "ghosh/uiGradients",
-    "stargazers_count": 5897,
-    "open_issues_count": 215,
+    "stargazers_count": 5901,
+    "open_issues_count": 214,
     "forks_count": 1378
   },
   {
     "full_name": "mwaskom/seaborn",
-    "stargazers_count": 12338,
+    "stargazers_count": 12344,
     "open_issues_count": 176,
-    "forks_count": 1903
+    "forks_count": 1904
   },
   {
     "full_name": "matplotlib/matplotlib",
-    "stargazers_count": 19858,
-    "open_issues_count": 1587,
+    "stargazers_count": 19878,
+    "open_issues_count": 1588,
     "forks_count": 7546
   },
   {
     "full_name": "lgarron/folderify",
-    "stargazers_count": 1466,
+    "stargazers_count": 1469,
     "open_issues_count": 12,
     "forks_count": 34
   },
   {
     "full_name": "jupyter/jupyter",
-    "stargazers_count": 14837,
+    "stargazers_count": 14841,
     "open_issues_count": 48,
-    "forks_count": 4029
+    "forks_count": 4037
   },
   {
     "full_name": "dylanaraps/pure-bash-bible",
-    "stargazers_count": 36372,
+    "stargazers_count": 36376,
     "open_issues_count": 62,
-    "forks_count": 3264
+    "forks_count": 3266
   },
   {
     "full_name": "spaceship-prompt/spaceship-prompt",
-    "stargazers_count": 19376,
+    "stargazers_count": 19381,
     "open_issues_count": 125,
     "forks_count": 954
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 53392,
-    "open_issues_count": 29,
-    "forks_count": 3606
+    "stargazers_count": 53455,
+    "open_issues_count": 31,
+    "forks_count": 3608
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 42721,
-    "open_issues_count": 11,
-    "forks_count": 1089
+    "stargazers_count": 42744,
+    "open_issues_count": 12,
+    "forks_count": 1087
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 171885,
-    "open_issues_count": 431,
-    "forks_count": 25770
+    "stargazers_count": 171969,
+    "open_issues_count": 432,
+    "forks_count": 25772
   },
   {
     "full_name": "bpkg/bpkg",
@@ -97,43 +97,43 @@
   },
   {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 20712,
-    "open_issues_count": 2156,
-    "forks_count": 345
+    "stargazers_count": 20749,
+    "open_issues_count": 2152,
+    "forks_count": 348
   },
   {
     "full_name": "MidnightCommander/mc",
-    "stargazers_count": 2491,
+    "stargazers_count": 2497,
     "open_issues_count": 30,
-    "forks_count": 518
+    "forks_count": 519
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 43881,
-    "open_issues_count": 732,
-    "forks_count": 1909
+    "stargazers_count": 43922,
+    "open_issues_count": 734,
+    "forks_count": 1910
   },
   {
     "full_name": "charmbracelet/glow",
-    "stargazers_count": 15615,
-    "open_issues_count": 73,
-    "forks_count": 333
+    "stargazers_count": 15645,
+    "open_issues_count": 74,
+    "forks_count": 336
   },
   {
     "full_name": "openseadragon/openseadragon",
-    "stargazers_count": 2982,
-    "open_issues_count": 481,
+    "stargazers_count": 2985,
+    "open_issues_count": 482,
     "forks_count": 594
   },
   {
     "full_name": "inaturalist/inaturalist",
     "stargazers_count": 651,
-    "open_issues_count": 532,
-    "forks_count": 182
+    "open_issues_count": 527,
+    "forks_count": 183
   },
   {
     "full_name": "Candygoblen123/TerrariaArmMac",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 7,
     "forks_count": 1
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 27774,
+    "stargazers_count": 27775,
     "open_issues_count": 17,
-    "forks_count": 2849
+    "forks_count": 2847
   },
   {
     "full_name": "historicalsource/hitchhikersguide",
-    "stargazers_count": 960,
+    "stargazers_count": 961,
     "open_issues_count": 0,
     "forks_count": 124
   },
   {
     "full_name": "google/fonts",
-    "stargazers_count": 17981,
-    "open_issues_count": 1241,
-    "forks_count": 2603
+    "stargazers_count": 17989,
+    "open_issues_count": 1217,
+    "forks_count": 2601
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 83819,
+    "stargazers_count": 83847,
     "open_issues_count": 1986,
-    "forks_count": 9179
+    "forks_count": 9183
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 62429,
-    "open_issues_count": 817,
-    "forks_count": 7814
+    "stargazers_count": 62487,
+    "open_issues_count": 810,
+    "forks_count": 7817
   }
 ]
